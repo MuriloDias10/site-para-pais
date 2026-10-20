@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    background-color: #f4f7fb;
+    color: #1f2937;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+    color: #123a63;
+}
+
+h1 {
+    font-size: 38px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+a {
+    color: #1d4ed8;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.cabecalho {
+    background-color: #2020a8;
+    color: white;
+    padding: 30px 0;
+}
+
+.cabecalho h1 {
+    color: bisque;
+}
+
+.subtitulo {
+    max-width: 700px;
+}
+
+.menu-lista {
+    margin: 20px 0 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.menu-lista li {
+    display: inline-block;
+
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.menu-link {
+    display: inline-block;
+
+    padding: 8px 12px;
+
+    background-color: bisque;
+    color: black;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    text-decoration: none;
+}
+
+.secao {
+    padding: 72px 0;
+}
+
+.titulo-secao {
+    margin-bottom: 32px;
+    padding-left: 12px;
+
+    border-left: 5px solid #2929ac;
+    border-radius: 5px;
+}
+
+.grade-cards {
+    display: grid;
+    gap: 24px;
+}
+
+.card {
+    padding: 24px;
+    background-color: #fff;
+    border: 1px solid #d8e0e8;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(20, 45, 70, 0.08);
+}
+
+.rodape {
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #e2e8f0;
+    text-align: center;
+}
+
+.rodape address {
+    font-style: normal;
+}
+
+.rodape a {
+    text-decoration: none;
+}
