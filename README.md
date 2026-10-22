@@ -1,2 +1,3 @@
 # site-para-pais
 Um site feito para auxiliar pessoas a serem excelentes pais aos seus filhos.
+Esse site contém uma página inicial onde mostra temas como: "Papinha e Comidas", "Brincadeiras e Atividades", "O Sono do Bebê" e "Saúde e Vacinação". Além disso, nesse site tem outra página onde está os "Cuidados Diários com seu Bebê", essa parte contém o que você deve fazer em diferentes períodos do dia, como por exemplo: "Manhã", "Tarde" e "Noite".
